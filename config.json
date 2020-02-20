@@ -1,0 +1,4 @@
+{
+  "queue_size": 100,
+  "cnn_models_path": "./predictors/cnn/input/"
+}

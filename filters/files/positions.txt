@@ -1,0 +1,1280 @@
+Progressive | PGR
+Amedisys Inc | AMED
+InterDigItal Inc | IDCC
+Xylem | XYL
+RH | RH
+Belden Inc | BDC
+Starbucks Corporation | SBUX
+MTS Systems Corp | MTSC
+Seattle Genetics Inc | SGEN
+Башнефть | BANE
+Navient | NAVI
+Maxim Integrated Products Inc | MXIM
+Winnebago Industries Inc | WGO
+Caterpillar | CAT
+Ligand Pharmaceuticals Inc | LGND
+Westlake Chemical | WLK
+O-I Glass | OI
+United Technologies | UTX
+Agilent Technologies | A
+Axon Enterprise Inc | AAXN
+Trex Co Inc | TREX
+Rockwell Automation | ROK
+Biglari Holdings Inc | BH
+Вторая генерирующая компания оптового рынка электроэнергии | OGKB
+Neurocrine Biosciences Inc | NBIX
+Integra LifeSciences Holdings | IART
+Rogers Corp | ROG
+Robert Half | RHI
+Univar Solutions Inc | UNVR
+Crane Co | CR
+PayPal Holdings | PYPL
+Churchill Downs Inc | CHDN
+DuPont de Nemours Inc | DD
+McKesson | MCK
+AMC Networks Inc | AMCX
+Chefs' Warehouse Inc | CHEF
+STAAR Surgical Co | STAA
+Ubiquiti Inc | UI
+SONOS INC | SONO
+Spirit Realty Capital Inc | SRC
+Pilgrim's Pride Corp | PPC
+Crown Holdings Inc | CCK
+Crown Castle | CCI
+Cerner | CERN
+ServiceMaster Global Holdings | SERV
+FleetCor Technologies Inc | FLT
+Kennametal Inc | KMT
+SiteOne Landscape Supply Inc | SITE
+American States Water Co | AWR
+Nexstar Media Group Inc | NXST
+ONEOK | OKE
+РБК | RBCM
+Mc'DONALDS | MCD
+Axos Financial Inc | AX
+Barrett Business Services Inc | BBSI
+CVS Health Corporation | CVS
+Discovery Communications (C) | DISCK
+NeoGenomics Inc | NEO
+HCA Healthcare | HCA
+JD.com | JD
+Quidel Corp | QDEL
+Российские сети | RSTI
+Eagle Pharmaceuticals Inc | EGRX
+TCR2 Therapeutics Inc | TCRR
+UDR | UDR
+New Jersey Resources Corp | NJR
+Taiwan Semiconductor Manufacturing | TSM
+United Parcel Service | UPS
+Veritiv Corp | VRTV
+AAR Corp | AIR
+M/I Homes Inc | MHO
+МРСК Центра и Приволжья | MRKP
+Semtech Corp | SMTC
+Arthur J. Gallagher & Co | AJG
+Select Energy Services Inc | WTTR
+Aon PLC | AON
+China Southern Airlines | ZNH
+MAXIMUS Inc | MMS
+Ford | F
+Arconic | ARNC
+Allegiant Travel Co | ALGT
+Трубная Металлургическая Компания | TRMK
+Whirlpool | WHR
+Proofpoint Inc | PFPT
+Guangshen Railway | GSH
+Wyndham Hotels & Resorts | WH
+ЛУКОЙЛ | LKOH
+Corning | GLW
+Московская Биржа | MOEX
+Chevron | CVX
+HealthEquity Inc | HQY
+Cornerstone OnDemand Inc | CSOD
+CorVel Corp | CRVL
+Changyou com Ltd | CYOU
+Heritage-Crystal Clean Inc | HCCI
+Shenandoah Telecommunications | SHEN
+Cavco Industries Inc | CVCO
+Полюс Золото | PLZL
+MetLife | MET
+Deere & Company | DE
+Aerie Pharmaceuticals Inc | AERI
+Legg Mason | LM
+Twenty-First Century Fox | FOX
+Bottomline Technologies DE Inc | EPAY
+Rollins | ROL
+Agios Pharmaceuticals Inc | AGIO
+Omnicell Inc | OMCL
+Mid-America Apartment Communities | MAA
+PG&E | PCG
+Pfizer | PFE
+Foot Locker | FL
+Башнефть - привилегированные акции | BANEP
+Wells Fargo & Company | WFC
+РУСАЛ | RUAL
+Charles River Laboratories Int | CRL
+Alteryx Inc | AYX
+Penumbra Inc | PEN
+REX American Resources Corp | REX
+Altair Engineering Inc | ALTR
+Discover Financial Services | DFS
+Trade Desk Inc/The | TTD
+FedEx | FDX
+Waters | WAT
+Malibu Boats Inc | MBUU
+Boot Barn Holdings Inc | BOOT
+Chart Industries Inc | GTLS
+Travelers Cos | TRV
+Fair Isaac Corp | FICO
+Global Payments | GPN
+Rapid7 Inc | RPD
+The Cooper Companies | COO
+ePlus Inc | PLUS
+Signet Jewelers | SIG
+Diamondback Energy Inc | FANG
+Mylan NV | MYL
+Dorman Products Inc | DORM
+Huntington Bancshares | HBAN
+CME GROUP | CME
+MEDNAX Inc | MD
+Mondelez | MDLZ
+C.H. Robinson Worldwide | CHRW
+Blackline Inc | BL
+Crocs Inc | CROX
+Hartford Financial Services | HIG
+iRobot Corp | IRBT
+AMETEK | AME
+Capital One | COF
+Таттелеком | TTLK
+Банк Санкт-Петербург | BSPB
+МРСК Урала | MRKU
+Fifth Third Bancorp | FITB
+Bluebird Bio Inc | BLUE
+Alarm com Holdings Inc | ALRM
+Bio-Rad Laboratories Inc | BIO
+Merck & Co. | MRK
+Consolidated Edison | ED
+Chegg Inc | CHGG
+Visa | V
+Masco | MAS
+Herman Miller Inc | MLHR
+Yum! | YUM
+Keurig Dr Pepper | KDP
+NVIDIA | NVDA
+Xencor Inc | XNCR
+Sally Beauty Holdings Inc | SBH
+ServiceNow Inc | NOW
+Morgan Stanley | MS
+Татнефть | TATN
+L3Harris Technologies Inc | LHX
+Aramark | ARMK
+Xilinx | XLNX
+Citrix Systems | CTXS
+Pioneer Natural Resources | PXD
+Continental Resources Inc | CLR
+Nasdaq | NDAQ
+News Corp | NWS
+Exelon Corporation | EXC
+Western Union | WU
+Western Alliance Bancorp | WAL
+SolarEdge Technologies Inc | SEDG
+AbbVie | ABBV
+GoDaddy Inc | GDDY
+Норильский никель | GMKN
+Methode Electronics Inc | MEI
+LIthia Motors Inc | LAD
+МРСК Северо-Запада | MRKZ
+Virtusa Corp | VRTU
+Murphy USA Inc | MUSA
+Berkshire Hathaway | BRK.B
+Repligen Corporation | RGEN
+SPX FLOW Inc | FLOW
+Square | SQ
+Sempra Energy | SRE
+ТГК-2 | TGKB
+Teleflex Inc | TFX
+Paycom Software Inc | PAYC
+Werner Enterprises Inc | WERN
+Verizon Communications | VZ
+Ferro Corp | FOE
+Hewlett Packard Enterprise | HPE
+Dycom Industries Inc | DY
+Elanco Animal Health Inc | ELAN
+Universal Forest Products Inc | UFPI
+Casey's General Stores Inc | CASY
+Everbridge Inc | EVBG
+Ventas | VTR
+Zynerba Pharmaceuticals Inc | ZYNE
+IBM | IBM
+Carlisle Companies Incorporated | CSL
+Calavo Growers Inc | CVGW
+Boston Beer Co Inc The | SAM
+Flowserve | FLS
+Sykes Enterprises Inc | SYKE
+ПАО «КАЗАНЬОРГСИНТЕЗ» | KZOS
+ANSYS | ANSS
+ЮУНК | UNKL
+PolyOne Corp | POL
+NetScout Systems Inc | NTCT
+Ciena Corp | CIEN
+Advanced Energy Industries Inc | AEIS
+Digital Realty | DLR
+Brighthouse Financial | BHF
+American Outdoor Brands Corp | AOBC
+John B Sanfilippo & Son Inc | JBSS
+Zions Bancorporation | ZION
+EOG Resources | EOG
+Vanda Pharmaceuticals Inc | VNDA
+МОЭСК | MSRS
+Wal-Mart Stores | WMT
+Мультисистема | MSST
+Amgen | AMGN
+Veoneer Inc | VNE
+Old Dominion Freight Line Inc | ODFL
+A. O. Smith Corporation | AOS
+Zillow Group Inc | Z
+Madrigal Pharmaceuticals Inc | MDGL
+MercadoLibre Inc | MELI
+Wynn Resorts | WYNN
+Vornado Realty Trust | VNO
+SVB Financial Group | SIVB
+BorgWarner | BWA
+PNC Financial Services | PNC
+Tempur Sealy International Inc | TPX
+Пермэнергосбыт - акции привилегированные | PMSBP
+Heron Therapeutics Inc | HRTX
+QIWI | QIWI
+Dillard's Inc | DDS
+JB Hunt | JBHT
+Ростелеком | RTKM
+H&R Block | HRB
+Electronic Arts | EA
+Intuit | INTU
+Woodward Inc | WWD
+Power Integrations Inc | POWI
+Корпорация ИРКУТ | IRKT
+Neogen Corp | NEOG
+China Biologic Products Holdings | CBPO
+Aptiv | APTV
+NuVasive Inc | NUVA
+Matson Inc | MATX
+UnitedHealth | UNH
+Synopsys | SNPS
+HB Fuller Co | FUL
+British American Tobacco | BTI
+NIKE | NKE
+ВСМПО-АВИСМА | VSMO
+Focus Financial Partners Inc | FOCS
+Southern Copper Corp | SCCO
+Cars.com Inc | CARS
+F5 Networks | FFIV
+Texas Roadhouse Inc | TXRH
+Group 1 Automotive Inc | GPI
+Harsco Corp | HSC
+Equifax | EFX
+Zillow Group Inc | ZG
+Johnson Outdoors Inc | JOUT
+Willis Towers Watson | WLTW
+Union Pacific Corporation | UNP
+Alexandria Real Estate Equities | ARE
+Pool Corp | POOL
+Delphi Technologies | DLPH
+Keysight Technologies Inc | KEYS
+Gibraltar Industries Inc | ROCK
+Enanta Pharmaceuticals Inc | ENTA
+Q2 Holdings Inc | QTWO
+Materion Corp | MTRN
+Raytheon | RTN
+Green Dot Corp | GDOT
+Verint Systems Inc | VRNT
+Lowe's | LOW
+CenturyLink | CTL
+MGIC Investment Corp | MTG
+M&T Bank | MTB
+Splunk | SPLK
+PPL | PPL
+Visteon Corp | VC
+IPG | IPG
+Deluxe Corp | DLX
+Automatic Data Processing | ADP
+МГТС - акции привилегированные | MGTSP
+Erie IndemnIty Co | ERIE
+Strategic Education Inc | STRA
+Dave & Buster's Entertainment Inc | PLAY
+Юнипро | UPRO
+MyoKardia Inc | MYOK
+Children's Place Inc The | PLCE
+Timken Co The | TKR
+М.видео | MVID
+Las Vegas Sands Corp | LVS
+Reliance Steel & Aluminum Co | RS
+Inspire Medical Systems Inc | INSP
+TPI Composites Inc | TPIC
+McCormick & Co | MKC
+Aspen Technology Inc | AZPN
+Pacira BioSciences Inc | PCRX
+Guardant Health Inc | GH
+Tesla Motors | TSLA
+Murphy Oil | MUR
+Micro Focus | MFGP
+Exxon Mobil Corporation | XOM
+Stoneridge Inc | SRI
+ON Semiconductor Corp | ON
+Shake Shack Inc | SHAK
+MicroStrategy Inc | MSTR
+Eaton Corporation | ETN
+Iovance Biotherapeutics Inc | IOVA
+Linde | LIN
+АДР МТС | MBT
+SS&C Technologies Holdings Inc | SSNC
+JOYY Inc | YY
+Arista Networks Inc | ANET
+Broadridge Financial Solutions | BR
+PVH | PVH
+Hub Group Inc | HUBG
+The Clorox Company | CLX
+EPAM Systems | EPAM
+Gartner | IT
+United States Cellular Corp | USM
+Cimarex Energy | XEC
+Mohawk Industries | MHK
+PulteGroup | PHM
+Dolby Laboratories Inc | DLB
+Archer-Daniels-Midland Company | ADM
+Knight-Swift Transportation | KNX
+Alaska Air Group | ALK
+eBay | EBAY
+Nordstrom | JWN
+Salesforce | CRM
+Мечел - Привилегированные акции | MTLRP
+Ulta Beauty | ULTA
+Target | TGT
+Schlumberger | SLB
+Boston Properties | BXP
+CoStar Group Inc | CSGP
+Steel Dynamics Inc | STLD
+New Relic Inc | NEWR
+Сбербанк России | SBER
+People's United Financial | PBCT
+Ecolab | ECL
+T Rowe Price Group | TROW
+АЛРОСА-Нюрба | ALNU
+ПАО «КАЗАНЬОРГСИНТЕЗ» - акции привилегированные | KZOSP
+Appian Corp | APPN
+Cadence Design Systems | CDNS
+MSC Industrial Direct Co Inc | MSM
+Pagerduty Inc | PD
+OraSure Technologies Inc | OSUR
+DaVita HealthCare Partners | DVA
+PACCAR | PCAR
+PetroChina | PTR
+Pennant Group Inc | PNTG
+O'Reilly Automotive | ORLY
+Funko Inc | FNKO
+Floor & Decor Holdings Inc | FND
+Ленэнерго | LSNG
+FARO Technologies Inc | FARO
+SYNNEX Corp | SNX
+International Paper | IP
+РусГидро | HYDR
+Huazhu Group | HTHT
+Ralph Lauren | RL
+TCS Group (Tinkoff Bank holder) | TCS
+Atrion Corp | ATRI
+Valero Energy Corporation | VLO
+Coupa Software Inc | COUP
+Inogen Inc | INGN
+CMS Energy Corporation | CMS
+Bristol-Myers Squibb | BMY
+Invesco | IVZ
+Vericel Corp | VCEL
+Transocean | RIG
+Simon Property Group | SPG
+Manhattan Associates Inc | MANH
+Sprouts Farmers Market Inc | SFM
+Edwards Lifesciences | EW
+Inphi Corp | IPHI
+Ростелеком - Привилегированные акции | RTKMP
+Русолово | ROLO
+Realty Income | O
+BMC Stock Holdings Inc | BMCH
+Palo Alto Networks | PANW
+Covetrus Inc | CVET
+LiveRamp Holdings Inc | RAMP
+Yandex | YNDX
+АФК Система | AFKS
+Raven Industries Inc | RAVN
+Middleby Corp The | MIDD
+ПИК | PIKK
+Hyatt Hotels Corp | H
+Watts Water Technologies Inc | WTS
+ICU Medical Inc | ICUI
+NetEase Inc | NTES
+Vipshop | VIPS
+Amazon.com | AMZN
+Prestige Consumer Healthcare I | PBH
+TriNet Group Inc | TNET
+ФосАгро | PHOR
+Polaris Industries Inc | PII
+Fluor | FLR
+Burlington Stores Inc | BURL
+Alliant Energy | LNT
+ЧЗПСН | PRFN
+НЛМК | NLMK
+CenterPoint Energy | CNP
+ТНС энерго Воронеж | VRSB
+СОЛЛЕРС | SVAV
+Simpson Manufacturing Co Inc | SSD
+Immunomedics Inc | IMMU
+Global Blood Therapeutics Inc | GBT
+Eversource Energy | ES
+Altice USA Inc | ATUS
+Chemed Corp | CHE
+Northern Trust | NTRS
+Deckers Outdoor Corp | DECK
+Campbell Soup | CPB
+Manchester United Plc | MANU
+AutoZone | AZO
+ViacomCBS Inc. | VIAC
+Ashland Global Holdings Inc | ASH
+World Acceptance Corp | WRLD
+Delta Air Lines | DAL
+Stitch Fix | SFIX
+Graham Holdings Co | GHC
+Akamai Technologies | AKAM
+Oceaneering International Inc | OII
+Denali Therapeutics Inc | DNLI
+Envestnet Inc | ENV
+Microsoft Corporation | MSFT
+ANI Pharmaceuticals Inc | ANIP
+D.R. Horton | DHI
+Twitter | TWTR
+Банк ВТБ | VTBR
+ANGI Homeservices Inc | ANGI
+Fox Factory Holding Corp | FOXF
+Teradata | TDC
+Abiomed Inc | ABMD
+Объединенная авиастроительная корпорация | UNAC
+Роснефть | ROSN
+Иркутскэнерго | IRGZ
+WR Grace & Co | GRA
+Kontoor Brands Inc | KTB
+Sanofi | SNY
+NMI Holdings Inc | NMIH
+Нижнекамскнефтехим | NKNC
+Northrop Grumman | NOC
+FLIR Systems | FLIR
+ТГК-14 | TGKN
+Ionis Pharmaceuticals Inc | IONS
+Anthem | ANTM
+Hawaiian Holdings Inc | HA
+Seacoast Banking Corp of Flori | SBCF
+Air Products & Chemicals | APD
+Skechers U.S.A. Inc | SKX
+Moody's | MCO
+j2 Global Inc | JCOM
+Orthofix Medical Inc | OFIX
+Energy Transfer LP | ET
+Bank of New York Mellon | BK
+United Therapeutics Corp | UTHR
+Ingredion Inc | INGR
+Hilton Grand Vacations Inc | HGV
+Tyler Technologies Inc | TYL
+Zuora Inc | ZUO
+ExlService Holdings Inc | EXLS
+Thor Industries Inc | THO
+Myriad Genetics Inc | MYGN
+Goodyear Tire & Rubber | GT
+FTI Consulting Inc | FCN
+Kirby Corp | KEX
+Xcel Energy | XEL
+Etsy Inc | ETSY
+Darling Ingredients Inc | DAR
+Leggett & Platt | LEG
+DXC Technology | DXC
+Sturm Ruger & Co Inc | RGR
+Greif Inc | GEF
+Nielsen Holdings plc | NLSN
+Royal Caribbean Cruises | RCL
+Vertex Pharmaceuticals | VRTX
+Hanesbrands | HBI
+Транснефть | TRNFP
+International Flavors & Fragrances | IFF
+Alibaba | BABA
+Resideo Technologies Inc | REZI
+TTM Technologies Inc | TTMI
+Aflac Incorporated | AFL
+Monarch Casino & Resort Inc | MCRI
+Ameriprise Financial | AMP
+Onto Innovation Inc | ONTO
+Zscaler Inc | ZS
+AvalonBay Communities | AVB
+Synaptics Inc | SYNA
+Synchrony Financial | SYF
+TE Connectivity | TEL
+ЧМК | CHMK
+Zoetis | ZTS
+VEON | VEON
+Turtle Beach Corp | HEAR
+Ra Pharmaceuticals Inc | RARX
+Analog Devices | ADI
+Integer Holdings Corp | ITGR
+Hasbro | HAS
+ФСК ЕЭС | FEES
+Biogen | BIIB
+Wingstop Inc | WING
+Esperion Therapeutics Inc | ESPR
+Workiva Inc | WK
+Urban Outfitters | URBN
+Cabot Oil & Gas | COG
+Global Net Lease Inc | GNL
+Essex Property Trust | ESS
+Meritor Inc | MTOR
+Quest Diagnostics | DGX
+Tandem Diabetes Care Inc | TNDM
+Parker-Hannifin | PH
+Edison International | EIX
+Danaher | DHR
+Amphenol | APH
+Colfax Corp | CFX
+JPMorgan | JPM
+Autodesk | ADSK
+Mettler Toledo | MTD
+Medpace Holdings Inc | MEDP
+Albemarle | ALB
+KeyCorp | KEY
+Southern | SO
+Nordson Corp | NDSN
+Alliance Data Systems | ADS
+AeroVironment Inc | AVAV
+Pitney Bowes | PBI
+Газпром | GAZP
+Euronet Worldwide Inc | EEFT
+SK Telecom Co. | SKM
+REGENXBIO Inc | RGNX
+WW Grainger | GWW
+МТС | MTSS
+MSCI Inc | MSCI
+The Estee Lauder Companies | EL
+Guidewire Software Inc | GWRE
+Veeva Systems Inc | VEEV
+The Allstate Corporation | ALL
+Eagle Materials Inc | EXP
+Alexion Pharmaceuticals | ALXN
+SPS Commerce Inc | SPSC
+Cardiovascular Systems Inc | CSII
+LyondellBasell | LYB
+Красный Октябрь | KROT
+Patrick Industries Inc | PATK
+Dominion Energy Inc | D
+Marcus & Millichap Inc | MMI
+Xerox | XRX
+The Home Depot | HD
+Constellation Brands | STZ
+Bank of America Corp | BAC
+Ovintiv Inc. | OVV
+Группа ЛСР | LSRG
+Sage Therapeutics Inc | SAGE
+Русполимет | RUSP
+Applied Materials | AMAT
+eHealth Inc | EHTH
+USANA Health Sciences Inc | USNA
+Walt Disney | DIS
+AnaptysBio Inc | ANAB
+Банк Возрождение - акции привилегированные | VZRZP
+Allogene Therapeutics Inc | ALLO
+BlackRock | BLK
+Саратовский НПЗ - акции привилегированные | KRKNP
+Mirati Therapeutics Inc | MRTX
+American Public Education Inc | APEI
+Southwestern Energy | SWN
+TreeHouse Foods Inc | THS
+Apple | AAPL
+Rhythm Pharmaceuticals Inc | RYTM
+Sherwin-Williams | SHW
+Ross Stores | ROST
+CSW Industrials Inc | CSWI
+Cinemark Holdings Inc | CNK
+Baxter International | BAX
+Dollar General | DG
+Sysco | SYY
+Chubb | CB
+Fidelity National Information | FIS
+Altria Group | MO
+Armstrong World Industries Inc | AWI
+Wayfair Inc | W
+Сургутнефтегаз - привилегированные акции | SNGSP
+Acuity Brands | AYI
+Under Armour | UAA
+Badger Meter Inc | BMI
+Cincinnati Financial Corporation | CINF
+Lumentum Holdings Inc | LITE
+Okta Inc | OKTA
+Darden Restaurants | DRI
+Boston Scientific Corporation | BSX
+Распадская | RASP
+НМТП | NMTP
+Chesapeake Energy Corporation | CHK
+The Williams Companies | WMB
+Аптечная сеть 36,6 | APTK
+Ultragenyx Pharmaceutical Inc | RARE
+Asbury Automotive Group Inc | ABG
+Black Knight Inc | BKI
+Vulcan Materials | VMC
+Sensient Technologies Corp | SXT
+Varex Imaging Corp | VREX
+Huntington Ingalls Industries Inc | HII
+Sohu.com | SOHU
+Affiliated Managers Group | AMG
+Citizens Financial Group | CFG
+Patterson | PDCO
+Booking | BKNG
+LogMeIn Inc | LOGM
+Corcept Therapeutics Inc | CORT
+Host Hotels & Resorts | HST
+Nutanix Inc | NTNX
+Moderna Inc | MRNA
+Северсталь | CHMF
+Expedia | EXPE
+Zendesk Inc | ZEN
+PTC Inc | PTC
+PBF Energy Inc | PBF
+Kaiser Aluminum Corp | KALU
+RingCentral Inc | RNG
+Магнитогорский металлургический комбинат | MAGN
+Range Resources | RRC
+NextEra Energy | NEE
+E*TRADE Financial Corporation | ETFC
+Tyson Foods | TSN
+Marriott International | MAR
+Vale SA | VALE
+Central Garden & Pet Co | CENTA
+Bruker Corp | BRKR
+Greenbrier Cos Inc | GBX
+Saia Inc | SAIA
+Occidental Petroleum | OXY
+The Charles Schwab Corporation | SCHW
+TAL Education Group | TAL
+Medtronic | MDT
+Hostess Brands Inc | TWNK
+XPO Logistics Inc | XPO
+Performance Food Group Co | PFGC
+CommVault Systems Inc | CVLT
+Baker Hughes | BKR
+Appfolio Inc | APPF
+Intellia Therapeutics Inc | NTLA
+Allison Transmission Holdings | ALSN
+Becton, Dickinson and Company | BDX
+Ленэнерго - акции привилегированные | LSNGP
+Netflix | NFLX
+Truist Financial Corporation | TFC
+Mattel | MAT
+Российские сети - акции привилегированные | RSTIP
+Raymond James Financial | RJF
+Roper Technologies | ROP
+Textron | TXT
+Papa John's International Inc | PZZA
+Anixter International Inc | AXE
+Meritage Homes Corp | MTH
+Tucows Inc | TCX
+Cal-Maine Foods Inc | CALM
+China Telecom | CHA
+Fortive | FTV
+Lennar | LEN
+Ameren | AEE
+IHS Markit | INFO
+MerIt Medical Systems Inc | MMSI
+NETGEAR Inc | NTGR
+Pegasystems Inc | PEGA
+Brink's Co | BCO
+Texas Capital Bancshares Inc | TCBI
+FactSet Research Systems Inc | FDS
+Packaging Corp of America | PKG
+Evolent Health Inc | EVH
+Hain Celestial Group Inc | HAIN
+Vonage Holdings Corp | VG
+Snap-on | SNA
+Copart Inc | CPRT
+Avanos Medical Inc | AVNS
+Газпром нефть | SIBN
+Qorvo | QRVO
+Нижнекамскнефтехим - акции привилегированные | NKNCP
+Русгрэйн | RUGR
+Discovery Communications (B) | DISCB
+Fastenal Company | FAST
+Intel Corporation | INTC
+Lennox International Inc | LII
+Alcoa Corporation | AA
+Broadcom | AVGO
+Cirrus Logic Inc | CRUS
+Fiserv | FISV
+Ingevity Corp | NGVT
+ДЭК | DVEC
+NVR Inc | NVR
+National Beverage Corp | FIZZ
+America's Car-Mart Inc TX | CRMT
+LHC Group Inc | LHCG
+SEI Investments Company | SEIC
+Zogenix Inc | ZGNX
+General Electric Company | GE
+Movado Group Inc | MOV
+MaxLinear Inc | MXL
+Encore Capital Group Inc | ECPG
+Галс-Девелопмент | HALS
+Varian Medical Systems | VAR
+Наука-Связь | NSVZ
+Avery Dennison | AVY
+Skyworks Solutions | SWKS
+TRI Pointe Group Inc | TPH
+Marathon Oil | MRO
+AGCO Corp | AGCO
+Nucor | NUE
+Kinder Morgan | KMI
+ТГК-2 - акции привилегированные | TGKBP
+1-800-Flowers.com Inc | FLWS
+American Tower | AMT
+Mosaic | MOS
+Coty | COTY
+Zebra Technologies Corp | ZBRA
+Lululemon Athletica Inc | LULU
+Nektar Therapeutics | NKTR
+Kite Realty Group Trust | KRG
+Vishay Precision Group Inc | VPG
+Baozun Inc | BZUN
+Intercontinental Exchange | ICE
+Astronics Corp | ATRO
+Plexus Corp | PLXS
+Cummins | CMI
+Comerica Incorporated | CMA
+Lear Corp | LEA
+Shockwave Medical Inc | SWAV
+TransUnion | TRU
+Ball Corporation | BLL
+Workday Inc | WDAY
+Huron Consulting Group Inc | HURN
+Qualys Inc | QLYS
+Echo Global Logistics Inc | ECHO
+RBC Bearings Inc | ROLL
+Charter Communications | CHTR
+Cigna | CI
+Planet FItness Inc | PLNT
+Newmont Goldcorp Corporation | NEM
+Сбербанк России - привилегированные акции | SBERP
+Hibbett Sports Inc | HIBB
+Atkore International Group Inc | ATKR
+Celanese Corp | CE
+Genesco Inc | GCO
+Royal Dutch Shell (A) | RDS.A
+Johnson Controls | JCI
+LendingTree Inc | TREE
+Incyte | INCY
+Frontier Communications | FTR
+Twenty-First Century Fox (A) | FOXA
+Shutterstock Inc | SSTK
+AMN Healthcare Services Inc | AMN
+Varonis Systems Inc | VRNS
+Welltower | WELL
+Total S.A. | TOT
+Phillips 66 | PSX
+Tenable Holdings Inc | TENB
+Extra Space Storage | EXR
+WESCO International Inc | WCC
+Stericycle | SRCL
+HD Supply Holdings Inc | HDS
+Watsco Inc | WSO
+LivePerson Inc | LPSN
+Bed Bath & Beyond | BBBY
+Honeywell | HON
+Emerson Electric | EMR
+General Motors | GM
+Lockheed Martin | LMT
+Providence Service Corp The | PRSC
+Silicon Laboratories Inc | SLAB
+Rayonier Inc | RYN
+Sarepta Therapeutics Inc | SRPT
+Chipotle Mexican Grill | CMG
+DocuSign Inc | DOCU
+Pluralsight Inc | PS
+Inter Parfums Inc | IPAR
+Avalara Inc | AVLR
+AECOM | ACM
+State Street | STT
+Kraft Heinz | KHC
+HubSpot Inc | HUBS
+BioTelemetry Inc | BEAT
+Southwest Airlines | LUV
+Beacon Roofing Supply Inc | BECN
+ПРОТЕК | PRTK
+TripAdvisor | TRIP
+Williams-Sonoma Inc | WSM
+Health Insurance Innovations | HIIQ
+HP | HPQ
+Renewable Energy Group Inc | REGI
+Trimble Inc | TRMB
+AdvanSix Inc | ASIX
+Gray Television Inc | GTN
+Brown-Forman | BF.B
+Adtalem Global Education Inc | ATGE
+L Brands | LB
+МРСК Волги | MRKV
+COCA-COLA | KO
+ЧТПЗ | CHEP
+Melco Resorts & Entertainment | MLCO
+Markel Corp | MKL
+PetIQ Inc | PETQ
+Levi Strauss & Co | LEVI
+Principal Financial Group | PFG
+Mobile Mini Inc | MINI
+American Airlines Group | AAL
+IQVIA Holdings Inc | IQV
+Zumiez Inc | ZUMZ
+Carter's Inc | CRI
+Republic Services | RSG
+Philip Morris | PM
+Red Robin Gourmet Burgers Inc | RRGB
+НОВАТЭК | NVTK
+PRA Group Inc | PRAA
+General Dynamics | GD
+Colgate-Palmolive | CL
+Alphabet Class A | GOOGL
+Installed Building Products | IBP
+Sealed Air | SEE
+Arena Pharmaceuticals Inc | ARNA
+Advance Auto Parts | AAP
+QAD Inc | QADA
+Everest Re Group | RE
+3M Company | MMM
+Кузбасская топливная компания | KBTK
+ForeScout Technologies Inc | FSCT
+EQT Corporation | EQT
+Newell Brands | NWL
+Dover | DOV
+FRP Holdings Inc | FRPH
+QuinStreet Inc | QNST
+Surmodics Inc | SRDX
+Cardinal Health | CAH
+Квадра | TGKD
+Cypress Semiconductor Corp | CY
+Devon Energy | DVN
+CareDx Inc | CDNA
+Ашинский метзавод | AMEZ
+Marsh & McLennan | MMC
+Macerich | MAC
+Детский Мир | DSKY
+Match Group Inc | MTCH
+Quanta Services | PWR
+Equinix | EQIX
+Cree Inc | CREE
+Motorola Solutions | MSI
+Jefferies Financial Group | JEF
+News Corp (A) | NWSA
+Axsome Therapeutics Inc | AXSM
+PerkinElmer | PKI
+VeriSign | VRSN
+Мечел | MTLR
+NRG Energy | NRG
+Big Lots Inc | BIG
+UniFirst Corp MA | UNF
+Veracyte Inc | VCYT
+AMD | AMD
+Fortune Brands Home & Security | FBHS
+Cognex Corp | CGNX
+ConocoPhillips | COP
+АЛРОСА | ALRS
+ProPetro Holding Corp | PUMP
+IAC InterActiveCorp | IAC
+Fortinet Inc | FTNT
+Arrow Electronics Inc | ARW
+Forrester Research Inc | FORR
+Tractor Supply | TSCO
+NortonLifeLock Inc | NLOK
+Garmin | GRMN
+Duluth Holdings Inc | DLTH
+Sabra Health Care REIT Inc | SBRA
+ИНГРАД | OPIN
+Helmerich & Payne | HP
+AutoNation | AN
+Equitrans Midstream Corporation | ETRN
+Acceleron Pharma Inc | XLRN
+РКК Энергия им.С.П.Королева | RKKE
+Wolverine World Wide Inc | WWW
+Itron Inc | ITRI
+CarMax | KMX
+Owens Corning | OC
+2U Inc | TWOU
+ICICI Bank | IBN
+First Solar | FSLR
+Лента | LNTA
+TechnipFMC | FTI
+Domtar Corp | UFS
+Legacy Housing Corp | LEGH
+Catalent Inc | CTLT
+Quotient Technology Inc | QUOT
+Natus Medical Inc | NTUS
+Garrett Motion Inc | GTX
+CBRE Group | CBRE
+Glaukos Corp | GKOS
+China Eastern Airlines | CEA
+Anaplan Inc | PLAN
+Citigroup | C
+Waste Management | WM
+Vicor Corp | VICR
+Allscripts Healthcare Solution | MDRX
+Lantheus Holdings Inc | LNTH
+IPG Photonics Corporation | IPGP
+Qualcomm | QCOM
+Best Buy Co. | BBY
+Aluminum Corp of China | ACH
+National Oilwell Varco | NOV
+Procter & Gamble | PG
+Apartment Investment & Management | AIV
+Селигдар | SELG
+Vail Resorts Inc | MTN
+Assurant | AIZ
+Central Garden & Pet Co | CENT
+Hormel Foods | HRL
+Grand Canyon Education Inc | LOPE
+Cactus Inc | WHD
+Perficient Inc | PRFT
+Smartsheet Inc | SMAR
+Emergent BioSolutions Inc | EBS
+Regions Financial | RF
+Andersons Inc | ANDE
+Sanderson Farms Inc | SAFM
+Addus HomeCare Corp | ADUS
+Spirit Airlines Inc | SAVE
+Natura &Co Holding S.A. | NTCO
+Illinois Tool Works | ITW
+Concho Resources | CXO
+Masimo Corporation | MASI
+Expeditors | EXPD
+US Bancorp | USB
+Abbott | ABT
+General Mills | GIS
+МРСК Сибири | MRKS
+HollyFrontier | HFC
+Trupanion Inc | TRUP
+Illumina | ILMN
+Aaron's Inc | AAN
+Ingersoll-Rand | IR
+Healthcare Services Group Inc | HCSG
+PGT Innovations Inc | PGTI
+Allegion | ALLE
+YETI Holdings Inc | YETI
+Группа Черкизово | GCHE
+Dentsply Sirona | XRAY
+Rexnord Corp | RXN
+GCP Applied Technologies Inc | GCP
+China Life Insurance | LFC
+Supernus Pharmaceuticals Inc | SUPN
+Apache | APA
+Simply Good Foods Co | SMPL
+SL Green Realty | SLG
+Heska Corp | HSKA
+Halozyme Therapeutics Inc | HALO
+Бурятзолото | BRZL
+Iron Mountain | IRM
+Johnson & Johnson | JNJ
+Huaneng Power International | HNP
+Dick's Sporting Goods Inc | DKS
+Facebook | FB
+Western Digital | WDC
+Обувь России | OBUV
+Hershey | HSY
+МРСК Юга | MRKY
+NCR Corp | NCR
+Apergy Corporation | APY
+ГДР En+ Group | ENPL
+Pure Storage Inc | PSTG
+Momo | MOMO
+Белон | BLNG
+Intuitive Surgical | ISRG
+Pagseguro Digital Ltd | PAGS
+Premier Inc | PINC
+DexCom Inc | DXCM
+Мосэнерго | MSNG
+Telephone & Data Systems Inc | TDS
+Five9 Inc | FIVN
+Sinopec Shanghai Petrochemical | SHI
+Church & Dwight | CHD
+GranIte Construction Inc | GVA
+PPG Industries | PPG
+TEGNA | TGNA
+SolarWinds Corp | SWI
+Scotts Miracle-Gro Co The | SMG
+Clean Harbors Inc | CLH
+VF | VFC
+MSG Networks Inc | MSGN
+MongoDB Inc | MDB
+Live Nation Entertainment Inc | LYV
+Microchip Technology | MCHP
+Molson Coors Brewing | TAP
+Stryker | SYK
+Walgreens Boots Alliance | WBA
+Public Service Enterprise Group | PEG
+Татнефть - привилегированные акции | TATNP
+Kroger | KR
+Hilton | HLT
+Sleep Number Corp | SNBR
+Eastman Chemical Company | EMN
+Universal Display Corp | OLED
+MarketAxess Holdings Inc | MKTX
+Prologis | PLD
+Сургутнефтегаз | SNGS
+National Vision Holdings Inc | EYE
+Loews | L
+Martin Marietta Materials | MLM
+TJX | TJX
+Magellan Health Inc | MGLN
+MRC Global Inc | MRC
+Stanley Black & Decker | SWK
+Ollie's Bargain Outlet Holding | OLLI
+Gentherm Inc | THRM
+Discovery Communications (A) | DISCA
+Dow Inc | DOW
+Monster Beverage | MNST
+Anheuser-Busch InBev | BUD
+Cognizant Technology Solutions | CTSH
+ОВК | UWGN
+Booz Allen Hamilton | BAH
+Kansas City Southern | KSU
+Bandwidth Inc | BAND
+LGI Homes Inc | LGIH
+Thermo Fisher Scientific | TMO
+Exact Sciences Corp | EXAS
+Калужская сбытовая компания | KLSB
+Standex International Corp | SXI
+WestRock | WRK
+SailPoint Technologies Holdings | SAIL
+Gap | GPS
+OSI Systems Inc | OSIS
+Allergan | AGN
+Carpenter Technology Corp | CRS
+Tata Motors | TTM
+BJ's Restaurants Inc | BJRI
+ResMed Inc | RMD
+SINA Corp China | SINA
+JELD-WEN Holding Inc | JELD
+Universal Health Services | UHS
+Nu Skin Enterprises Inc | NUS
+Delek US Holdings Inc | DK
+Tiffany & Co | TIF
+Пермэнергосбыт | PMSB
+Ferrari N.V. | RACE
+RPM International Inc | RPM
+Tapestry | TPR
+Zimmer Biomet Holdings | ZBH
+Texas Instruments | TXN
+United Airlines Holdings | UAL
+Wyndham Destinations | WYND
+Seagate | STX
+RealPage Inc | RP
+Comcast | CMCSA
+Chatham Lodging Trust | CLDT
+Accenture | ACN
+Alnylam Pharmaceuticals Inc | ALNY
+Aimmune Therapeutics Inc | AIMT
+Tactile Systems Technology Inc | TCMD
+Carnival | CCL
+Henry Schein | HSIC
+nLight Inc | LASR
+PRA Health Sciences Inc | PRAH
+PepsiCo | PEP
+TopBuild Corp | BLD
+Edgewell Personal Care Co | EPC
+Taylor Morrison Home Corp | TMHC
+Hexcel Corp | HXL
+Noble Energy | NBL
+ТГК-1 | TGKA
+GMS Inc | GMS
+ДВМП | FESH
+Costco Wholesale | COST
+American Woodmark Corp | AMWD
+Upwork Inc | UPWK
+Polymetal | POLY
+Acacia Communications Inc | ACIA
+Weyerhaeuser | WY
+Городские Инновационные Технологии | GRNT
+Adobe | ADBE
+GILEAD | GILD
+Proto Labs Inc | PRLB
+МКБ | CBOM
+Dr. Reddy's Laboratories | RDY
+Redfin Corp | RDFN
+Kimberly-Clark | KMB
+Энел Россия | ENRU
+SP Plus Corp | SP
+Genuine Parts | GPC
+Mallinckrodt PLC | MNK
+ГТМ | GTRK
+Jacobs Engineering | J
+51job | JOBS
+Marathon Petroleum | MPC
+S&P Global | SPGI
+Juniper Networks | JNPR
+Anika Therapeutics Inc | ANIK
+GreenSky Inc | GSKY
+Cleveland-Cliffs | CLF
+US Foods Holding Corp | USFD
+II-VI Inc | IIVI
+Switch Inc | SWCH
+Progress Software Corp | PRGS
+Мостотрест | MSTT
+Atara Biotherapeutics Inc | ATRA
+Editas Medicine Inc | EDIT
+NewMarket Corp | NEU
+Builders FirstSource Inc | BLDR
+United Rentals | URI
+Globe Life Inc | GL
+Tech Data Corp | TECD
+Lincoln Electric Holdings | LECO
+Eli Lilly & Co | LLY
+Teledyne Technologies Inc | TDY
+НКХП | NKHP
+MYR Group Inc | MYRG
+Allakos Inc | ALLK
+Дагестанская энергосбытовая компания | DASB
+РуссНефть | RNFT
+Public Storage | PSA
+Haemonetics Corp | HAE
+Arrowhead Pharmaceuticals Inc | ARWR
+Korn Ferry | KFY
+Zynex Inc | ZYXI
+Cracker Barrel Old Country Sto | CBRL
+Sinclair Broadcast Group Inc | SBGI
+Axogen Inc | AXGN
+Generac Holdings Inc | GNRC
+Harley-Davidson | HOG
+Micron Technology | MU
+САФМАР | SFIN
+ManTech International Corp VA | MANT
+Brunswick Corp DE | BC
+Balchem Corp | BCPC
+Акрон | AKRN
+Blackbaud Inc | BLKB
+American Express | AXP
+Kimco Realty | KIM
+Healthpeak Properties Inc | PEAK
+InsperIty Inc | NSP
+iRhythm Technologies | IRTC
+Korea Electric Power | KEP
+NetApp | NTAP
+WEX Inc | WEX
+PC Connection Inc | CNXN
+FormFactor Inc | FORM
+Howard Hughes Corp | HHC
+Магнит | MGNT
+Under Armour (C) | UA
+РусАгро | AGRO
+Dril-Quip Inc | DRQ
+Columbia Sportswear Company | COLM
+Toll Brothers Inc | TOL
+Norfolk Southern | NSC
+NOW Inc | DNOW
+8x8 Inc | EGHT
+WEC Energy Group | WEC
+Cooper Tire & Rubber Co | CTB
+JM Smucker | SJM
+Columbus McKinnon Corp | CMCO
+Activision Blizzard | ATVI
+Dollar Tree | DLTR
+Google | GOOG
+Cintas | CTAS
+Jones Lang LaSalle Inc | JLL
+Diodes Inc | DIOD
+Gossamer Bio Inc | GOSS
+Prudential Financial | PRU
+KLA-Tencor | KLAC
+МРСК Центра | MRKC
+Alleghany Corp | Y
+Vocera Communications Inc | VCRA
+TransDigm | TDG
+Aerojet Rocketdyne Holdings In | AJRD
+Центральный Телеграф - акции привилегированные | CNTLP
+Hologic | HOLX
+Reata Pharmaceuticals Inc | RETA
+Franklin Resources | BEN
+Livent Corporation | LTHM
+ACADIA Pharmaceuticals Inc | ACAD
+Corteva Inc | CTVA
+Credit Acceptance Corp | CACC
+GrubHub Inc | GRUB
+Humana | HUM
+The AES Corporation | AES
+FMC | FMC
+Berry Global Group Inc | BERY
+Cisco | CSCO
+K12 Inc | LRN
+Интер РАО ЕЭС | IRAO
+Jack Henry & Associates Inc | JKHY
+Oshkosh Corporation | OSK
+Regency Centers | REG
+ManpowerGroup Inc | MAN
+Macy's | M
+Halliburton | HAL
+Kellogg | K
+LabCorp | LH
+Verisk Analytics | VRSK
+Wabtec Corp. | WAB
+Perspecta | PRSP
+Yelp Inc | YELP
+Центральный Телеграф | CNTL
+Hess | HES
+Paylocity Holding Corp | PCTY
+Baidu | BIDU
+Yext Inc | YEXT
+CoreLogic Inc United States | CLGX
+Centene Corporation | CNC
+Lam Research | LRCX
+G1 Therapeutics Inc | GTHX
+Endo International PLC | ENDP
+LG Display | LPL
+IDEXX | IDXX
+Nokia | NOK
+Freeport-McMoRan | FCX
+Bright Horizons Family Solutio | BFAM
+Align Technology | ALGN
+BOEING | BA
+Fate Therapeutics Inc | FATE
+Capri Holdings Limited | CPRI
+Magnolia Oil & Gas Corp | MGY
+Goldman Sachs | GS
+Аэрофлот | AFLT
+China Mobile | CHL
+Post Holdings Inc | POST
+Conagra Brands | CAG
+Globus Medical Inc | GMED
+Mastercard | MA
+Cara Therapeutics Inc | CARA
+Unum | UNM
+American International Group | AIG
+AT&T | T
+Omnicom Group | OMC
+ГДР X5 RetailGroup | FIVE
+ASGN Inc | ASGN
+Ultra Clean Holdings Inc | UCTT
+Oil States International Inc | OIS
+АбрауДюрсо | ABRD
+Oracle | ORCL
+Madison Square Garden Co | MSG
+Worthington Industries Inc | WOR
+Qurate Retail Inc | QRTEA
+Weibo Corporation | WB
+Ryder System | R
+LKQ Corporation | LKQ
+КАМАЗ | KMAZ
+Syneos Health Inc | SYNH
+Spirit AeroSystems Holdings | SPR
+CF Industries Holdings | CF
+Bilibili Inc | BILI
+Coherent Inc | COHR
+Insulet Corp | PODD
+Teradyne Inc | TER
+Cooper-Standard Holdings Inc | CPS
+Лензолото | LNZL
+BioMarin Pharmaceutical Inc | BMRN
+NV5 Global Inc | NVEE
+ТрансКонтейнер | TRCN
+Exelixis Inc | EXEL
+ScanSource Inc | SCSC
+Regeneron Pharmaceuticals | REGN
