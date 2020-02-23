@@ -6,7 +6,7 @@ class BaseNewsTemplate:
         self.headline = headline
         self.url = url
         self.result = result
-        self.datetime = datetime.fromtimestamp(datetime_str)
+        self.datetime = datetime_str
 
     def get_str(self):
-        return self.headline + '\n' + self.result + '\n' + str(self.datetime) + '\n' + self.url
+        return self.headline + '\n' + self.result + '\n' + self.datetime + '\n' + self.url

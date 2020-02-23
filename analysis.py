@@ -8,6 +8,7 @@ from filters.simple_filter import SimpleFilter
 from postprocessors.simple_postprocessor import SimplePostprocessor
 from predictors.cnn.cnn_predictor import CNNPredictor
 from providers.finnhub_provider import FinnhubProvider
+from providers.the_guardian_provider import TheGuardianProvider
 from telegram_bot.telegram_bot import TelegramBot
 
 
@@ -20,7 +21,8 @@ class Analysis:
         'filter',
         'config',
         'predictor',
-        'postprocessor'
+        'postprocessor',
+        'logger'
     ]
 
     def __init__(self):
@@ -30,9 +32,9 @@ class Analysis:
 
         self.processed_news = queue.Queue(self.config['queue_size'])
 
-        self.provider = FinnhubProvider()
+        self.provider = TheGuardianProvider(self.config['api_keys']['the_guardian'])
 
-        self.telegram_bot = TelegramBot()
+        self.telegram_bot = TelegramBot(self.config['telegram_bot_token'])
 
         self.filter = SimpleFilter()
 
@@ -40,9 +42,11 @@ class Analysis:
 
         self.postprocessor = SimplePostprocessor()
 
-    def start(self):
+        self.logger = logging.getLogger('Analysis')
+        self.logger.setLevel(logging.DEBUG)
 
-        logging.info('Analysis started')
+    def start(self):
+        self.logger.info('Analysis started')
 
         while True:
 
@@ -55,20 +59,19 @@ class Analysis:
 
                 self.processed_news.put(news.headline)
 
-                if self.filter.is_valid(news):
+                # if self.filter.is_valid(news):
 
-                    result = self.predictor.predict(news.headline)
+                result = self.predictor.predict(news.headline)
 
-                    notifications = self.postprocessor.run(news, result)
+                notifications = self.postprocessor.run(news, result)
 
-                    if result is not None:
-                        news.result = result
+                news.result = result
 
-                        self.telegram_bot.send(news.get_str())
+                self.telegram_bot.send(news.get_str())
 
-                    if notifications is not None:
-                        for notification in notifications:
-                            self.telegram_bot.send(notification)
+                if notifications is not None:
+                    for notification in notifications:
+                        self.telegram_bot.send(notification)
 
             sleep(5)
 

@@ -149,7 +149,7 @@ class CNNPredictor(BasePredictor):
         elif digit > 0.5 + unknown_threshold:
             return 'Buy'
         elif digit > 0.5 - unknown_threshold:
-            return None
+            return 'Unknown'
         elif digit > 0.5 - strong_signal:
             return 'Sell'
         else:
