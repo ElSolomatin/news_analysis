@@ -20,7 +20,7 @@ class SimpleFilter(BaseFilter):
             'financial', 'international', 'systems',
             'industries', 'привилегированные', 'акции',
             'health', 'global', 'company',
-            'services', 'the', 'new', 'a']
+            'services', 'the', 'new', 'a', 'factory', 'it']
 
         with open('filters/files/positions.txt', 'r') as f:
 

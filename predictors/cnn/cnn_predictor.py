@@ -43,7 +43,7 @@ class CNNPredictor(BasePredictor):
 
         if len(tokens) < 5 or tokens == [self.word2idx['UNKNOWN']] * len(
                 tokens):  # tokens cannot be too short or unknown
-            return 'Unknown'
+            return 'Неизвестно'
         else:
             feature = torch.LongTensor([tokens])
 
@@ -145,12 +145,12 @@ class CNNPredictor(BasePredictor):
         unknown_threshold = 0.05
 
         if digit > 0.5 + strong_signal:
-            return 'Strong Buy'
+            return 'Уверенная покупка'
         elif digit > 0.5 + unknown_threshold:
-            return 'Buy'
+            return 'Покупка'
         elif digit > 0.5 - unknown_threshold:
-            return 'Unknown'
+            return 'Неизвестно'
         elif digit > 0.5 - strong_signal:
-            return 'Sell'
+            return 'Продажа'
         else:
-            return 'Strong Sell'
+            return 'Уверенная продажа'

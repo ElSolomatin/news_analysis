@@ -1,6 +1,5 @@
 import logging
 import queue
-import json
 
 from time import sleep
 
@@ -8,8 +7,10 @@ from filters.simple_filter import SimpleFilter
 from postprocessors.simple_postprocessor import SimplePostprocessor
 from predictors.cnn.cnn_predictor import CNNPredictor
 from providers.finnhub_provider import FinnhubProvider
+from providers.investing_provider import InvestingProvider
 from providers.the_guardian_provider import TheGuardianProvider
 from telegram_bot.telegram_bot import TelegramBot
+from utils.config import config
 
 
 class Analysis:
@@ -26,19 +27,15 @@ class Analysis:
     ]
 
     def __init__(self):
-        # Init config
-        with open('config.json') as config_file:
-            self.config = json.load(config_file)
+        self.processed_news = queue.Queue(config['queue_size'])
 
-        self.processed_news = queue.Queue(self.config['queue_size'])
+        self.provider = InvestingProvider()
 
-        self.provider = TheGuardianProvider(self.config['api_keys']['the_guardian'])
-
-        self.telegram_bot = TelegramBot(self.config['telegram_bot_token'])
+        self.telegram_bot = TelegramBot(config['telegram_bot_token'])
 
         self.filter = SimpleFilter()
 
-        self.predictor = CNNPredictor(self.config['cnn_models_path'])
+        self.predictor = CNNPredictor(config['cnn_models_path'])
 
         self.postprocessor = SimplePostprocessor()
 
@@ -50,7 +47,7 @@ class Analysis:
 
         while True:
 
-            latest_news = self.provider.get_latest_news()
+            latest_news = self.provider.get_latest_news_with_pc(self.processed_news)
 
             for news in latest_news:
 
@@ -67,7 +64,10 @@ class Analysis:
 
                 news.result = result
 
-                self.telegram_bot.send(news.get_str())
+                try:
+                    self.telegram_bot.send(str(news))
+                except Exception as e:
+                    self.logger.error(e)
 
                 if notifications is not None:
                     for notification in notifications:
