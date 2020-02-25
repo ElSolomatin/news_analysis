@@ -51,6 +51,8 @@ class InvestingProvider(BaseProvider):
 
             n_soup = BeautifulSoup(news_page.text, "html.parser")
 
+            news_datetime = None
+
             for elem in n_soup.find_all(attrs={'class': 'contentSectionDetails'}):
                 try:
                     news_datetime = datetime.strptime(elem.find('span')
@@ -59,6 +61,10 @@ class InvestingProvider(BaseProvider):
                     break
                 except Exception as e:
                     pass
+
+            if news_datetime is None:
+                i -= 1
+                continue
 
             text = ''
             for elem in n_soup.find_all(attrs={'class': 'WYSIWYG articlePage'}):
