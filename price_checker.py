@@ -20,8 +20,12 @@ class PriceChecker:
                         'USDRUR': 0,
                         'EURRUR': 0
                         }
+        self.craziest = [
+            'AMD',
+            'TSLA'
+        ]
 
-        self.threshold = 0.05
+        self.threshold = 0.15
 
     def run(self):
         while True:
@@ -43,8 +47,12 @@ class PriceChecker:
                 change = 100 * diff / self.indices[idx]
 
                 if abs(change) > self.threshold:
-                    self.telegram_bot.send(idx + ' Изменения в цене на ' + str(change) + '%')
+                    if idx in self.craziest and abs(change) > self.threshold * 4:
+                        continue
 
+                    self.telegram_bot.send(idx + ' Изменения в цене на ' + '{:.2f}'.format(change) + '%')
+
+                self.indices[idx] = res['ask']
                 time.sleep(2)
 
 
