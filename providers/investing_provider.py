@@ -6,29 +6,36 @@ import requests
 from bs4 import BeautifulSoup
 
 from providers.base_provider import BaseProvider
-from templates.investing_news import InvestingNews
+from providers.web_base_provider import WebBaseProvider
+from templates.single_news import SingleNews
 from utils.config import config
 
 
-class InvestingProvider(BaseProvider):
-    url = 'https://www.investing.com/news/stock-market-news'
+class InvestingProvider(WebBaseProvider):
 
     def __init__(self):
-        super().__init__()
-        self.base_url = 'https://www.investing.com'
-        self.headers = {'User-Agent': 'Mozilla/5.0'}
+        super().__init__(base_url='https://www.investing.com',
+                         news_url='https://www.investing.com/news/latest-news')
 
     def get_latest_news_with_pc(self, processed_news):
-        page = requests.get('https://www.investing.com/news/stock-market-news', headers=self.headers)
+        try:
+            page = requests.get(self.NEWS_URL, headers=self.HEADERS)
+        except Exception as e:
+            print(e)
+            return []
+
+        if page.status_code == 500:
+            return []
 
         soup = BeautifulSoup(page.text, "html.parser")
-        latest_news = soup.findAll(class_='textDiv')
+
+        component = soup.findAll(class_='largeTitle')[0]
+
+        latest_news = component.findAll(class_='textDiv')
 
         result = []
 
-        i = 0
-
-        for n in latest_news:
+        for n in latest_news[:5]:
 
             n_find = n.find()
             if n_find is not None:
@@ -40,14 +47,19 @@ class InvestingProvider(BaseProvider):
 
             n_title = n_find.get('title')
 
-            if n_title in processed_news.queue or i > config['news_limit']:
+            if n_title in processed_news.queue:
                 continue
 
-            i += 1
+            url = self.BASE_URL + n_href
 
-            url = self.base_url + n_href
-
-            news_page = requests.get(url, headers=self.headers)
+            try:
+                news_page = requests.get(url, headers=self.HEADERS)
+            except Exception as e:
+                try:
+                    news_page = requests.get(n_href, headers=self.HEADERS)
+                except Exception as e2:
+                    print(e2)
+                    continue
 
             n_soup = BeautifulSoup(news_page.text, "html.parser")
 
@@ -62,20 +74,30 @@ class InvestingProvider(BaseProvider):
                 except Exception as e:
                     pass
 
-            if news_datetime is None:
-                i -= 1
-                continue
-
             text = ''
-            for elem in n_soup.find_all(attrs={'class': 'WYSIWYG articlePage'}):
-                text += elem.text
 
-            result.append(InvestingNews(n_title, None, url, news_datetime, text))
+            if news_datetime is None:
+                news_datetime = 'Не удалось получить время новости'
+            else:
+                for elem in n_soup.find_all(attrs={'class': 'WYSIWYG articlePage'}):
+                    text += elem.text
 
-            sleep(2)
+            result.append(SingleNews(n_title, None, url, news_datetime, text,
+                                     self.get_symbols_from_text(text)))
 
         return result
 
+    @staticmethod
+    def get_symbols_from_text(text):
+        symbols = []
+        text = text.replace('(', ' ').replace(')', ' ')
+
+        with open('./filters/files/indexes.txt', 'r') as f:
+            for line in f.read().splitlines():
+                if ':' + line + ' ' in text:
+                    symbols.append(line)
+
+        return symbols
 
 if __name__ == '__main__':
     InvestingProvider().get_latest_news()

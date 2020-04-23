@@ -1,12 +1,10 @@
 {
   "queue_size": 100,
   "cnn_models_path": "./predictors/cnn/input/",
-  "telegram_bot_token": ,
-  "news_limit": 10,
+  "telegram_bot_token": "993727911:AAGShCMB0UeY0OZzL5--xkrZgtWy8EfceFA",
+  "news_limit": 1,
 
   "api_keys": {
-    "the_guardian": ,
-    "finnhub": ,
-    "yandex_translate":
+    "yandex_translate": "trnsl.1.1.20200225T211944Z.328810e25815395f.43bffd95da37ab015713b32ef45f88eacab8acee"
   }
 }
