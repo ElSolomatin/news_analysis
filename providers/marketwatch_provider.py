@@ -39,7 +39,7 @@ class MarketWatchProvider(WebBaseProvider):
 
             headline = news.findAll(class_='article__headline')[0].find()
 
-            if headline.text == '' or headline.text in processed_news.queue:
+            if headline is None or headline.text == '' or headline.text in processed_news.queue:
                 continue
 
             details = news.findAll(class_='article__details')[0].find()
@@ -63,7 +63,7 @@ class MarketWatchProvider(WebBaseProvider):
                 referenced_symbols.append(stock.text)
 
             result.append(SingleNews(headline.text, ai_predict=None, url=headline['href'], datetime=details['data-est'],
-                                     symbols=referenced_symbols, text=None))
+                                     symbols=referenced_symbols, text=''))
         return result
 
 

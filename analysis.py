@@ -31,7 +31,7 @@ class Analysis:
         self.processed_news = queue.Queue(config['queue_size'])
 
         self.news_providers = [
-            InvestingProvider(),
+            # InvestingProvider(),
             MarketWatchProvider()
         ]
 
@@ -39,7 +39,7 @@ class Analysis:
 
         self.filter = SimpleFilter()
 
-        self.predictor = CNNPredictor(config['cnn_models_path'])
+        # self.predictor = CNNPredictor(config['cnn_models_path'])
 
         self.postprocessor = SimplePostprocessor()
 
@@ -71,9 +71,6 @@ class Analysis:
 
                     for news in latest_news:
 
-                        if news.symbols.__len__() == 0:
-                            continue
-
                         if news.headline in self.processed_news.queue:
                             continue
 
@@ -81,22 +78,24 @@ class Analysis:
 
                         # if self.filter.is_valid(news):
 
-                        result = self.predictor.predict(news.headline)
+                        # result = self.predictor.predict(news.headline)
+                        #
+                        # notifications = self.postprocessor.run(news, result)
 
-                        notifications = self.postprocessor.run(news, result)
-
-                        news.result = result
+                        news.result = None
 
                         try:
+                            print('start sending...')
                             self.telegram_bot.send(str(news))
+                            print(str(news))
                         except Exception as e:
                             self.logger.error(e)
                             print(1)
                             self.telegram_bot = TelegramBot(config['telegram_bot_token'])
 
-                        if notifications is not None:
-                            for notification in notifications:
-                                self.telegram_bot.send(notification)
+                        # if notifications is not None:
+                        #     for notification in notifications:
+                        #         self.telegram_bot.send(notification)
             except Exception as e:
                 print('main loop fail', e)
 
